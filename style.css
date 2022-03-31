@@ -1,0 +1,13 @@
+body{
+    background-color:paleturquoise;
+
+
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(114, 207, 172);
+    color: rgb(238, 18, 165);
+    text-align: center;
+  }

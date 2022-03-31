@@ -11,3 +11,7 @@ body{
     color: rgb(238, 18, 165);
     text-align: center;
   }
+
+  #conclusion{
+      color: darkgreen;
+  }
